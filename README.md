@@ -3,16 +3,25 @@
 
 ## Instructions
 Initially we host the files here and keep them updated, and then we can discuss refactoring the project.
+
 Use GitHub Desktop app to sync between online-repo and your local machine. https://desktop.github.com/download/
 
-### Contributors
+### Code Contributors
 Dr Chris Goodwin
+
 Matthew Doyle
+
 Dr Josh Hay
 
-### Researchers
+### Experimental Researchers
 Prof Andrei Golov
+
 Dr Paul Walmsley
+
+Dr Ivan Skachko
+
 Dr Chris Goodwin
+
 Dr Josh Hay
+
 Matthew Doyle
