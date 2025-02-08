@@ -1,4 +1,4 @@
-## Particle Tracking and Analysis Code
+## Particle Flow Tracking and Analysis Code
 
 (University of Manchester - https://www.physics.manchester.ac.uk/)
 
