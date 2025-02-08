@@ -1,13 +1,22 @@
-# Quantum Turbulence | Particle Tracking and Analysis Code 
+## Particle Tracking and Analysis Code
+
 (University of Manchester - https://www.physics.manchester.ac.uk/)
+# *Visualising Quantum Turbulence*
 
 ## Instructions
+
 Initially we host the files here and keep them updated, and then we can discuss refactoring the project.
 
 Use GitHub Desktop app to sync between online-repo and your local machine. https://desktop.github.com/download/
 
-### Code Contributors
+*add more...*
+
+---
+
+## Code Contributors
+
 - Dr Chris Goodwin (Admin)
+
 
 - Matthew Doyle (Admin)
 
@@ -15,7 +24,8 @@ Use GitHub Desktop app to sync between online-repo and your local machine. https
 
 - Richard De Fonseca Soares
 
-### Experimental Researchers
+## Experimental Researchers
+
 - Prof Andrei Golov
 
 - Dr Paul Walmsley
