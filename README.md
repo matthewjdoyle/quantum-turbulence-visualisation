@@ -18,10 +18,9 @@ Use GitHub Desktop app to sync between online-repo and your local machine. https
 
 ## Code Contributors
 
-- Dr Chris Goodwin (Admin)
-
-
 - Matthew Doyle (Admin)
+
+- Dr Chris Goodwin (Admin)
 
 - Dr Josh Hay
 
