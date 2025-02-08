@@ -1,10 +1,10 @@
+![Header](./github-header-image.png)
+
 ## Particle Flow Tracking and Analysis Code
 
 (University of Manchester - https://www.physics.manchester.ac.uk/)
 
 # *Visualising Quantum Turbulence*
-
-![Header](./github-header-image.png)
 
 ## Instructions
 
