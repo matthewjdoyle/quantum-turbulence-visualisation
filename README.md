@@ -38,9 +38,7 @@ Possible solutions:
 
 - Store on Git (files too big, too slow)
 
-- Store on Dropbox and use Synced files
-
-- For the manual tracking program data could likely be accessed directly from the code by dropbox's API
+- Store on OneDrive
 
 
 ---
