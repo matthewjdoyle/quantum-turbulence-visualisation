@@ -28,17 +28,11 @@ Use GitHub Desktop app to sync between online-repo and your local machine. https
 
 - Refactor codebase
 
+- Analysis of improved tracking
+
 - ***Would be nice to have:***
 
     - Dashboard to view analysis charts (Python/Django or HTML/CSS)
-
-### Data/Files
-
-Possible solutions:
-
-- Store on Git (files too big, too slow)
-
-- Store on OneDrive
 
 
 ---
