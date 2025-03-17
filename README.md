@@ -14,26 +14,6 @@ Use GitHub Desktop app to sync between online-repo and your local machine. https
 
 *add more...*
 
----
-
-## Plans
-
-### Code
-
-- Relational imports for python files (no more hardcoded file urls or adding paths)
-
-- Update all code to latest versions and ensure working
-
-- Add python-environment building files (to ensure all required packages are installed via pip)
-
-- Refactor codebase
-
-- Analysis of improved tracking
-
-- ***Would be nice to have:***
-
-    - Dashboard to view analysis charts (Python/Django or HTML/CSS)
-
 
 ---
 
@@ -41,7 +21,7 @@ Use GitHub Desktop app to sync between online-repo and your local machine. https
 
 ### Code Contributors
 
-- Matthew Doyle (Admin)
+- Dr Matthew Doyle (Admin)
 
 - Dr Chris Goodwin (Admin)
 
@@ -61,6 +41,6 @@ Use GitHub Desktop app to sync between online-repo and your local machine. https
 
 - Dr Josh Hay
 
-- Matthew Doyle
+- Dr Matthew Doyle
 
 - Liana Goodwin
